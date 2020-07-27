@@ -4,15 +4,20 @@
 
 
 body {
-     background-image: url('https://images.pexels.com/photos/450055/pexels-photo-450055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+     background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(32,32,32,1) 100%);
+}
+
+img {
+     align-items: center;
 }
 
 #rollButton {
-text-align: center;     
-background-color: gray;
+    
+font-family: 'Staatliches', cursive;
      color: whitesmoke;
      font-size: 30px;
-     background-color: chocolate;
+  background-color: rgba(32,32,32,1);
 }
 
 h1 {
