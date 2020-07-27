@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto&family=Squada+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+
+body {
+     background-image: url('https://images.pexels.com/photos/450055/pexels-photo-450055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
+
+#rollButton {
+text-align: center;     
+background-color: gray;
+     color: whitesmoke;
+     font-size: 30px;
+     background-color: chocolate;
+}
+
+h1 {
+   text-align: center;
+     color: white;
+     font-family: 'Press Start 2P', cursive;
+     padding: 15px;
+}
+
+h2 {
+     color: black;
+     text-align: center;
+     font-size: 80px;
+     font-family: 'Staatliches', cursive;
+}
+.spacer {
+     height: 20px;
+}
+
+h2 {
+     font-size: 40px;
+}
+
+h6 {
+     font-family: 'Staatliches', cursive;
+     color: white;
+     text-align: center;
+     font-size: 30px;
+}
+
+table {
+     color: white;
+}
+
